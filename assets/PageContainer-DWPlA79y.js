@@ -1,1 +1,0 @@
-import{at as e,mt as t,pt as n,tt as r}from"./firestore-WHKwe8gy.js";t();var i=n();function a({children:t,className:n=``}){return(0,i.jsx)(e.div,{variants:r,initial:`initial`,animate:`animate`,className:`space-y-6 ${n}`,children:t})}export{a as t};
