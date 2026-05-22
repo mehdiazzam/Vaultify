@@ -1,0 +1,1 @@
+import{dt as e}from"./firestore-C4RUk_MT.js";import{t}from"./AuthSplitAuth-BlZSxEK_.js";var n=e();function r(){return(0,n.jsx)(t,{initialMode:`signup`})}export{r as default};
