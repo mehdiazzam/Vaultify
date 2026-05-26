@@ -1,1 +1,0 @@
-import{dt as e,et as t,ft as n,rt as r}from"./firestore-C4RUk_MT.js";n();var i=e();function a({children:e,className:n=``}){return(0,i.jsx)(r.div,{variants:t,initial:`initial`,animate:`animate`,className:`space-y-4 sm:space-y-6 ${n}`,children:e})}export{a as t};

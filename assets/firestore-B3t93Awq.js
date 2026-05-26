@@ -1,0 +1,1 @@
+import{h as e}from"./firestore-BBjArZ15.js";export{e as createLinkedTransaction};

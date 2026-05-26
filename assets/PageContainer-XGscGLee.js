@@ -1,0 +1,1 @@
+import{A as e,k as t,x as n,y as r}from"./Button-CjhJKNhi.js";e();var i=t();function a({children:e,className:t=``}){return(0,i.jsx)(n.div,{variants:r,initial:`initial`,animate:`animate`,className:`space-y-4 sm:space-y-6 ${t}`,children:e})}export{a as t};

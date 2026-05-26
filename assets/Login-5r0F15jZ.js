@@ -1,0 +1,1 @@
+import{k as e}from"./Button-CjhJKNhi.js";import{t}from"./AuthSplitAuth-B7DlMS0d.js";var n=e();function r(){return(0,n.jsx)(t,{initialMode:`signin`})}export{r as default};
