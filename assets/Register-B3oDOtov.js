@@ -1,0 +1,1 @@
+import{k as e}from"./Button-CjhJKNhi.js";import{t}from"./AuthSplitAuth-_EfJVeqc.js";var n=e();function r(){return(0,n.jsx)(t,{initialMode:`signup`})}export{r as default};
